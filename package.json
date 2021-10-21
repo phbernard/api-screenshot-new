@@ -20,7 +20,11 @@
   "homepage": "https://github.com/11ty/api-screenshot#readme",
   "dependencies": {
     "@netlify/functions": "^0.7.2",
+    "@resoc/core": "^0.8.4",
+    "@resoc/create-img-core": "^0.8.4",
     "chrome-aws-lambda": "^10.1.0",
-    "puppeteer-core": "^10.1.0"
+    "puppeteer-core": "^10.1.0",
+    "query-string": "^7.0.1",
+    "route-parser": "0.0.5"
   }
 }
